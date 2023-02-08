@@ -11,3 +11,4 @@ int main(){
     cout << "Year:" << Ginga.year << " , Number:" << Ginga.num << "\n";
     return 0;
 }
+
